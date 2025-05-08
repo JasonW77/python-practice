@@ -1,0 +1,23 @@
+# Ignore Python virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Bytecode and compiled files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyd
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+.DS_Store
