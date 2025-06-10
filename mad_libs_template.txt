@@ -1,0 +1,3 @@
+Today I went to the {place}. It was a really {adjective} experience!  
+I saw a {noun} that was {verb_ing} right next to a {another_noun}.  
+People were {verb_past} and laughing. It made me feel so {emotion}.  
